@@ -1,4 +1,4 @@
-# DSCI_525_group21
+### MDS DSCI 525 - Group 21
 
 This repo is being used for a group project for UBC MDS Course 525 - Web Cloud Computing.
 
@@ -8,7 +8,7 @@ The dataset for the project can be found [here](https://figshare.com/articles/da
 
 Group members include:
 
-Justin Fu
-Anita Li
-Yuan Xiong
-Cal Schafer
+- Justin Fu
+- Anita Li
+- Yuan Xiong
+- Cal Schafer
